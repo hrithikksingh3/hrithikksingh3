@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hrithikkumarsingh](https://medium.com/@hrithikkumarsingh)
 
-- 💬 Ask me about **Web development , C , react , node**
+- 💬 Ask me about **Web development , C, cpp , react , node**
 
 - 📫 How to reach me **shrithik511@gmail.com**
 
