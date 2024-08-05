@@ -32,10 +32,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikksingh3&show_icons=true&locale=en" alt="hrithikksingh3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikksingh3&" alt="hrithikksingh3" /></p>
-<h2> Support Me by buying me a coffee 😐👇</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/codersvoice" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 120px; width: 600px;" >
-  </a>
-</p>
