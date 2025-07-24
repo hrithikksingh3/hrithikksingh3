@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images8.alphacoders.com/115/1156488.png" alt="banner" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px;" />
+  <img src="20567146.png" alt="banner" style="width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px;" />
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hrithikksingh3&label=Profile%20views&color=0e75b6&style=flat" alt="hrithikksingh3" /> </p>
