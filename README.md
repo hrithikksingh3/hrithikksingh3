@@ -13,7 +13,7 @@
       <ul style="list-style-position: inside; font-size: 16px; line-height: 2;">
         <li>🔭 I’m currently working at: <a href="https://www.tp.com/en-us/"><strong>Teleperformance India</strong></a></li>
         <li>🌱 I’m currently learning: <strong>.NET Core MVC, Azure, DSA</strong></li>
-        <li>👯 I’m lazily building: <a href="https://thankspage-codersvoice.onrender.com/"><strong>Codersvoice</strong></a></li>
+        <li>👯 I’m lazily building: <a href="https://www.google.com/search?q=codersvoice"><strong>Codersvoice</strong></a></li>
         <li>👨‍💻 Checkout the projects and more: <a href="https://hrithik-singh.onrender.com/#projects"><strong>Live Projects</strong></a></li>
         <li>📝 I regularly write articles on: <a href="https://medium.com/@hrithikkumarsingh"><strong>Articles</strong></a></li>
         <li>💬 Ask me about: <strong>Software Development and AI</strong></li>
